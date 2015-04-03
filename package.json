@@ -1,0 +1,26 @@
+{
+  "name": "heading-outline",
+  "version": "1.0.0",
+  "description": "Shows the semantic structures of headings on an html page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/heading-outline.git"
+  },
+  "keywords": [
+    "a11y",
+    "accessibility",
+    "semantic",
+    "structure",
+    "wave"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/heading-outline/issues"
+  },
+  "homepage": "https://github.com/finnp/heading-outline"
+}
