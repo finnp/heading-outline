@@ -1,6 +1,6 @@
 {
   "name": "heading-outline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shows the semantic structures of headings on an html page",
   "bin": "./cli.js",
   "main": "index.js",
